@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 Change at Local Lib
-new-change & marge (conflict)
+update README.md on git-have
